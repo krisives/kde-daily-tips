@@ -1,2 +1,3 @@
 # kde-daily-tips
-Daily tips for KDE
+
+Tips submitted daily to [/r/kde/](https://reddit.com/r/kde) on things you can do with the KDE Desktop.
